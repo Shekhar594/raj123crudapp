@@ -3,5 +3,5 @@
  <role rolename="manager-gui"/>
  <role rolename="manager-gui"/>
  <role rolename="manager-script"/>
- <user username="raj" password="raj" roles="manager,manager-gui,manager-script" />
+ <user username="harish" password="haish" roles="manager,manager-gui,manager-script" />
 </tomcat-users>
